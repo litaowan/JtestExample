@@ -1,0 +1,10 @@
+#Wed Nov 12 15:16:38 PST 2008
+.datasources/project/datasources=Deposit Example for Bank Account
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.contain_header=true
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.csv_file=${project_loc\:Jtest Example}/examples/bank/deposit.csv
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.name=Deposit Example for Bank Account
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.prefix=NONE
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.quote="
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.separator=,
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.type=CSV
+.datasources/project/Deposit\ Example\ for\ Bank\ Account.use_all_rows=true
